@@ -1,17 +1,17 @@
 {
   "ranking": [
     {
-      "rank": 1,
+      "id": 1,
       "name": "gagip",
       "stepCount": 100
     },
     {
-      "rank": 2,
-      "name": "gagip",
+      "id": 2,
+      "name": "y02645",
       "stepCount": 50
     },
     {
-      "rank": 3,
+      "id": 3,
       "name": "ss",
       "stepCount": 20
     }
